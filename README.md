@@ -46,7 +46,7 @@ Programmers with Python skills are highly sought after, and what better way to d
 
 ## Running Locally
 
-For instructions on how to run the code locally, please consult the [original repo's README](https://www.linkedin.com/learning/build-three-real-world-python-applications?dApp=59033956&leis=LAA).
+For instructions on how to run the code locally, please check the [original repo's README](https://www.linkedin.com/learning/build-three-real-world-python-applications?dApp=59033956&leis=LAA).
 
 ## Credits
 
