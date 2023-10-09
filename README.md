@@ -40,7 +40,7 @@ Programmers with Python skills are highly sought after, and what better way to d
 ## Progress
 
 - [x] Web Scraping in Python
-- [ ] Working with Web APIs in Python
+- [x] Working with Web APIs in Python
 - [ ] Text Analysis in Python
 
 
